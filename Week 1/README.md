@@ -1,10 +1,30 @@
 # Week 1 (25 May - 31 May): Python Primer + Basics of Scientific Computing
 
-## Week 0:
+## Goals for the week
 
-In the Week 0, we want you to learn Python (Python is a good relief if you're bored of C++ from CS 101 this sem) and modules like numpy, pandas and matplotlib (They are the goto libraries and the first imported when you're starting with any DS project, so it's good to have a grasp on them)
+- First, get a hang of Python and Jupyter Notebooks by doing the warm-up task.
+- Learn about NumPy, Pandas, and Matplotlib.
+- Solve some basic problems on these topics.
+
+The idea is to learn how these computing modules help us with implementing ML models and performing RL tasks.
+
+---
+
+## Pre-Task (optional, but recommended)
+
+This is a good video but long, should keep you occupied for a bit.
+
+Programming with Mosh: [Youtube](https://youtu.be/_uQrJ0TkZlc?si=gfn-7_-chO-J60hD)
+
+---
+
+## Warm-up Task
 
 Choose whatever resource suits you and get acquainted with the modules to move forward with the project.
+
+---
+
+## Core Concepts
 
 ### Resources for Git
 
@@ -14,11 +34,7 @@ This is a good lecture on git for beginners
 
 Git - https://youtu.be/NcoBAfJ6l2Q?si=FRLMmKKwj01E8ePw
 
-### Resources for Python
 
-This is a good video but long, should keep you occupied for a bit.
-
-Programming with Mosh: [Youtube](https://youtu.be/_uQrJ0TkZlc?si=gfn-7_-chO-J60hD)
 
 ### Resources for Numpy
 
@@ -43,3 +59,13 @@ Official Tutorial - https://matplotlib.org/stable/tutorials/index.html
 Numpy, Pandas and Matplotlib in a Playlist - https://youtube.com/playlist?list=PL9n0l8rSshSnragNblKDBsT8Xu3otp3jA&si=1zoqrRjvGLP4QMmU
 
 Some Python Notebooks for your practice can be found in the [Week 0 Folder](./Week%200/)
+
+
+---
+
+## Practice Notebooks to Submit
+
+
+
+
+
